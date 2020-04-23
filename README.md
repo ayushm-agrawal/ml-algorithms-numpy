@@ -4,4 +4,10 @@ This is an ongoing repository where I will be implementing all the fundamental a
 
 All of the code is written in ipynb and can be run through Colab or your local Jupyter notebooks
 
+### Current Implementations
+
+- K Nearest Neighbors
+- Linear Regression
+- (Experiment) CIFAR-10 on PyTorch... Just for fun
+
 **NOTE:** Feel free to add any issues or questions :) 
